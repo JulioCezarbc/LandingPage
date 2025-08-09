@@ -1,6 +1,6 @@
 <script setup>
 useHead({
-  title: 'Landing Page Profissional - Criação de Landing Pages | Landing Pro',
+  title: 'Landing Page Profissional para Conversões | Landing Pro',
   link: [
     {
       rel: 'icon',
@@ -11,7 +11,7 @@ useHead({
   meta: [
     { 
       name: 'description', 
-      content: 'Landing page profissional para aumentar conversões. Desenvolva landing pages otimizadas para SEO, design responsivo e alta performance para transformar visitantes em clientes.' 
+      content: 'Criação de sua landing page profissional com SEO, design responsivo e foco em conversões.'
     },
     { 
       name: 'keywords', 
